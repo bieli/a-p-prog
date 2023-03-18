@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /6414CF0C;
+Reference = C1;
+ValeurCmp = C_0806;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414CFD4;
+Reference = C2;
+ValeurCmp = C_0806;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414D09C;
+Reference = C3;
+ValeurCmp = C_0806;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414D164;
+Reference = C4;
+ValeurCmp = C_0806;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414D22C;
+Reference = C5;
+ValeurCmp = C_0806;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414D2F4;
+Reference = C6;
+ValeurCmp = C_0806;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414D86C;
+Reference = IC1;
+ValeurCmp = FT232RLSSOP;
+IdModule  = SPARKFUN_SSOP28DB;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414D934;
+Reference = J;
+ValeurCmp = AVR_SPI_PRG_6NS;
+IdModule  = SPARKFUN_2X3-NS;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414D9FC;
+Reference = JP1;
+ValeurCmp = PINHD-1X5/90;
+IdModule  = PINHEAD_1X05_90;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414DAC4;
+Reference = JP2;
+ValeurCmp = JP1E;
+IdModule  = JUMPER_JP1;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414DB8C;
+Reference = LED1;
+ValeurCmp = LEDCHIPLED_0805;
+IdModule  = LED_CHIPLED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414DC54;
+Reference = LED2;
+ValeurCmp = LEDCHIPLED_0805;
+IdModule  = LED_CHIPLED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414DEAC;
+Reference = Q1;
+ValeurCmp = CRYSTALHC49S;
+IdModule  = CRYSTAL_HC49_S;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414DF74;
+Reference = R1;
+ValeurCmp = R_0805;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414E03C;
+Reference = R2;
+ValeurCmp = R_0805;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414E104;
+Reference = R3;
+ValeurCmp = R_0805;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414E1CC;
+Reference = R4;
+ValeurCmp = R_0805;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414E294;
+Reference = R5;
+ValeurCmp = R_0805;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414E35C;
+Reference = R6;
+ValeurCmp = R_0805;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414E424;
+Reference = R7;
+ValeurCmp = R_0805;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414E4EC;
+Reference = R8;
+ValeurCmp = R_0805;
+IdModule  = _MOJA_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414E5B4;
+Reference = U1;
+ValeurCmp = ATMEGA328_SMT;
+IdModule  = SPARKFUN-DIGITALIC_TQFP32-08;
+EndCmp
+
+BeginCmp
+TimeStamp = /6414E67C;
+Reference = X1;
+ValeurCmp = USB-MICROB;
+IdModule  = SPARKFUN_USB-MICROB;
+EndCmp
+
+EndListe

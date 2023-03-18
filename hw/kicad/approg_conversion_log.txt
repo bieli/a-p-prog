@@ -1,0 +1,17 @@
+#********** START OF eagle6xx-sch-to-kicad-sch.ulp 2.2 17-03-2023 :21:31:35 LOG **********#
+Device Name Conflict: Device=GND from internal SCH lib=SparkFun with device=GND from LIB=supply1
+Symbol Name Conflict: Symbol=GND from internal SCH lib=SparkFun with symbol=GND from LIB=supply1
+Device Name Conflict: Device=GND from internal SCH lib=supply1 with device=GND from LIB=SparkFun
+Symbol Name Conflict: Symbol=GND from internal SCH lib=supply1 with symbol=GND from LIB=SparkFun
+#********** END OF eagle6xx-sch-to-kicad-sch.ulp 2.2 17-03-2023 :21:31:35 LOG **********#
+
+#********** START OF exp-lbrs.ulp 6.81 17-03-2023 :21:33:44 LOG **********#
+OK: Eagle library export from SCH/PCB successful
+    Conversion completed with no messages
+#********** END OF exp-lbrs.ulp 6.81 17-03-2023 :21:33:44 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 3.1 17-03-2023 :21:33:54 LOG **********#
+    Conversion completed with no Messages
+#********** END OF eagle-lbr2kicad-1.0.ulp 3.1 17-03-2023 :21:33:54 LOG **********#
+
